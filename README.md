@@ -12,7 +12,7 @@ The next method involved building a decision tree and using its output to determ
 
 
 Challenges
-Challenges : Dealing with debutants
+Challenges : Dealing with debutants:
 From the player vs player statistics we compute group vs group statistics.
 Using these we deal with 4 cases of debutant pair.
 1) Existing bowler, debut batsman : An average statistic of existing bowler
