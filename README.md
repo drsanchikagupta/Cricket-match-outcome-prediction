@@ -4,10 +4,10 @@ This is an analysis based project. Given 2 cricket teams, the batting order, bow
 The dataset is stored in HDFS and we are using spark mllib library for doing predictions on the data using 2 methods. 
 Simulating the match, given 2 teams, batting order, bowling order and team that bats first. 
 
-- Using Probability Simulating a match ball by ball using Probability Statistics :
+- Simulating a match ball by ball using Probability Statistics :
 In the first method, we clustered the batsmen and bowlers separately and found the probability of the batsman scoring n runs(0-6) against the bowlers using these clusters. We have used k-means clustering for creating batsmen and bowler clusters.
 
-- Using Decision Tree Simulating a match over by over with the help of Decision Tree
+- Simulating a match over by over with the help of Decision Tree
 The next method involved building a decision tree and using its output to determine the output of the match.
 
 
